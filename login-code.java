@@ -1,4 +1,3 @@
-*/
 package work;
 import javax.swing.*;
 import java.awt.*;
